@@ -3,7 +3,7 @@
     "label_dir": "dataset/labels/train",
     "files": 20,
     "people": 28,
-    "mean_num_keypoints": 16.39,
+    "mean_num_keypoints": 16.14,
     "per_keypoint": [
       {
         "index": 0,
@@ -57,8 +57,8 @@
       {
         "index": 7,
         "name": "left_elbow",
-        "v2_visible": 24,
-        "v1_occluded": 4,
+        "v2_visible": 25,
+        "v1_occluded": 3,
         "v0_outside": 0
       },
       {
@@ -78,37 +78,37 @@
       {
         "index": 10,
         "name": "right_wrist",
-        "v2_visible": 24,
+        "v2_visible": 23,
         "v1_occluded": 4,
-        "v0_outside": 0
+        "v0_outside": 1
       },
       {
         "index": 11,
         "name": "left_hip",
-        "v2_visible": 25,
+        "v2_visible": 24,
         "v1_occluded": 3,
-        "v0_outside": 0
+        "v0_outside": 1
       },
       {
         "index": 12,
         "name": "right_hip",
-        "v2_visible": 26,
+        "v2_visible": 25,
         "v1_occluded": 2,
-        "v0_outside": 0
+        "v0_outside": 1
       },
       {
         "index": 13,
         "name": "left_knee",
-        "v2_visible": 19,
+        "v2_visible": 18,
         "v1_occluded": 8,
-        "v0_outside": 1
+        "v0_outside": 2
       },
       {
         "index": 14,
         "name": "right_knee",
-        "v2_visible": 22,
+        "v2_visible": 20,
         "v1_occluded": 4,
-        "v0_outside": 2
+        "v0_outside": 4
       },
       {
         "index": 15,
@@ -120,15 +120,15 @@
       {
         "index": 16,
         "name": "right_ankle",
-        "v2_visible": 18,
+        "v2_visible": 17,
         "v1_occluded": 3,
-        "v0_outside": 7
+        "v0_outside": 8
       }
     ],
     "totals": {
-      "v2_visible": 381,
-      "v1_occluded": 78,
-      "v0_outside": 17
+      "v2_visible": 375,
+      "v1_occluded": 77,
+      "v0_outside": 24
     }
   },
   "comparison": null
